@@ -1,3 +1,3 @@
 # Word Shifts with the Bicycle&Pedestrain comments and replies dataset
 
-Here is the dataset and the code for the Bicycle&Pedestrain Twitter word shift analysis. The output is the word shift graph of the txt file input. Now there are two txt files for the Bicycle&Pedestrain analysis in the repository. You can add any tweets' files on your concerned topic to analyze the word shift. The code only supports python2, which is modified based on the [repository] (https://github.com/onurvarol/SentimentWordShift)
+Here is the dataset and the code for the Bicycle&Pedestrain Twitter word shift analysis. The output is the word shift graph of the txt file input. Now there are two txt files for the Bicycle&Pedestrain analysis in the repository. You can add any tweets' files on your concerned topic to analyze the word shift. The code only supports python2, which is modified based on the [repository](https://github.com/onurvarol/SentimentWordShift)
